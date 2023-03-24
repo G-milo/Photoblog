@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(244, 226, 199);
+}
+
+img{
+    width: 30%;
+    height: 300px;
+    margin: 1.5%;
+    float: left;
+
+}
+
+nav{
+    text-transform: uppercase;
+    border-bottom: 2px solid gray;
+    width: 30%;
+    margin-left: 1.5%;
+    padding: 20px 0;
+    font-size: 1.5em;
+    font-weight: bold;
+}
